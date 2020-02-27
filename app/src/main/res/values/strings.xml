@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PsychoMath</string>
+    <string name="startButtonText">Start</string>
+    <string name="textViewLeftText">Left</string>
+    <string name="textViewMidText">Middle</string>
+    <string name="textViewRightText">Right</string>
+    <string name="bRText">Answer 4</string>
+    <string name="tRText">Answer 2</string>
+    <string name="bLText">Answer 3</string>
+    <string name="tLText">Answer 1</string>
+</resources>
